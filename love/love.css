@@ -290,14 +290,14 @@ body{
     height: 100vh;
     animation:  heartX 4s 1s forwards;
 }
-/* @keyframes car1 {
+ @keyframes car1 {
     0%{
         transform: translateX(150px);
     }
     100%{
         transform: translateX(1000px);
     }
-} */
+} 
 .heart1,.heart2,.heart3, .heart4, .heart5, .heart6{
     position: absolute;
     width: 15px;
